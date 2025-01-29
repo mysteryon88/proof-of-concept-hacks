@@ -1,5 +1,7 @@
 # wintermute-hack
 
+- [Rekt News](https://rekt.news/wintermute-rekt/)
+
 ## Ethereum
 
 - [Wintermute: Multisig](https://etherscan.io/address/0x4f3a120E72C76c22ae802D129F599BFDbc31cb81)

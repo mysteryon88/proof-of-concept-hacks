@@ -1,0 +1,3 @@
+[submodule "parity/lib/forge-std"]
+	path = parity/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

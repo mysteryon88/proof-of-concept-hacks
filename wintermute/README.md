@@ -12,5 +12,5 @@
 ## Optimism
 
 - [Wintermute Exploiter Multisig](https://optimistic.etherscan.io/address/0x4f3a120e72c76c22ae802d129f599bfdbc31cb81)
-- [Exploit](0xE7145dd6287AE53326347f3A6694fCf2954bcD8A)
+- [Exploit](https://optimistic.etherscan.io/address/0xE7145dd6287AE53326347f3A6694fCf2954bcD8A)
 - [Wintermute/OP Exploiter](https://optimistic.etherscan.io/address/0x60b28637879b5a09d21b68040020ffbf7dba5107)

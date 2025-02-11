@@ -1,4 +1,4 @@
-# wintermute-hack
+# Wintermute hack
 
 - [Rekt News](https://rekt.news/wintermute-rekt/)
 - [Replay Safe contract deployment](https://github.com/5afe/safe-contract-deployment-replay)

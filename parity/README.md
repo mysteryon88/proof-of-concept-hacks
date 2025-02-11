@@ -1,4 +1,4 @@
-# Parity Hacks
+# Parity hacks
 
 ## Wallet hack
 

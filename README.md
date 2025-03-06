@@ -6,3 +6,4 @@
    - Killing the library: ~$300 M, 6/11/2017
 3. [Odos Protocol](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/odos): ~$50K, 23/01/2025
 4. [The DAO](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/thedao): ~$3.8M, 17/06/2016
+5. [Bancor, Access Control](): 18/06/2020

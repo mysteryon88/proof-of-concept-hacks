@@ -7,3 +7,6 @@
 [submodule "odos/lib/openzeppelin-contracts"]
 	path = odos/lib/openzeppelin-contracts
 	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "thedao/lib/forge-std"]
+	path = thedao/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

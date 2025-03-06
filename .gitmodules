@@ -10,3 +10,6 @@
 [submodule "thedao/lib/forge-std"]
 	path = thedao/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "bancor/lib/forge-std"]
+	path = bancor/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

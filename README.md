@@ -7,3 +7,6 @@
 3. [Odos Protocol](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/odos): ~$50K, 23/01/2025
 4. [The DAO](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/thedao): ~$3.8M, 17/06/2016
 5. [Bancor, Access Control](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/bancor): 18/06/2020
+6. [ERC777 hacks]():
+   - Uniswap: ~ , 18/04/2020
+   - Lendf.Me: ~$25 M, 19/04/2020

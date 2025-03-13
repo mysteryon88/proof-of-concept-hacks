@@ -10,3 +10,4 @@
 6. [ERC777 hacks](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/erc777):
    - Uniswap: ~1278 ETH, 18/04/2020
    - Lendf.Me: ~$25 M, 19/04/2020
+7. [AssociationNFT](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/AssociationNFT): 04/2022

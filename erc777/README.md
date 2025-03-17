@@ -3,7 +3,7 @@
 - [Uniswap/Lendf.Me Hacks: Root Cause and Loss Analysis](https://peckshield.medium.com/uniswap-lendf-me-hacks-root-cause-and-loss-analysis-50f3263dcc09)
 - [About Recent Uniswap and Lendf.Me Reentrancy Attacks](https://medium.com/imtoken/about-recent-uniswap-and-lendf-me-reentrancy-attacks-7cebe834cb3)
 
-# Uniswap
+## Uniswap
 
 - [Uniswap audit](https://medium.com/consensys-diligence/uniswap-audit-b90335ac007)
 - [SlowMist: Detailed Explanation of Uniswap’s ERC777 Re-entry Risk (Released in 2020)](https://blog.blockmagnates.com/detailed-explanation-of-uniswaps-erc777-re-entry-risk-8fa5b3738e08)

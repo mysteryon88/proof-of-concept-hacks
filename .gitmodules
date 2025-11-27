@@ -22,3 +22,6 @@
 [submodule "coinbase/lib/forge-std"]
 	path = coinbase/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "paraswap/lib/forge-std"]
+	path = paraswap/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

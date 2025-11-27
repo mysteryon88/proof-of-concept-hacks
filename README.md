@@ -11,4 +11,5 @@
    - Uniswap: ~1278 ETH, 18/04/2020
    - Lendf.Me: ~$25 M, 19/04/2020
 7. [AssociationNFT](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/AssociationNFT): 04/2022
-8. [CoinBase](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/coinbase): 13/08/2025
+8. [Coinbase](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/coinbase): ~$550К, 13/08/2025
+9. [ParaSwap](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/paraswap): ~$24К, 03/2024

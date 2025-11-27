@@ -33,9 +33,7 @@ const checkCode = async (
 };
 
 const deploy111AndFactory = async (): Promise<void> => {
-  // Переводим токены чтобы отправить транзу
   await sendETH(deployerAddr, "10");
-  // Пополняем пустой адрес мультисига
   await sendETH(multisigAddr, "100");
 
   const nonce = await provider.getTransactionCount(

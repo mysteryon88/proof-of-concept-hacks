@@ -13,3 +13,4 @@
 7. [AssociationNFT](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/AssociationNFT): 04/2022
 8. [Coinbase](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/coinbase): ~$550К, 13/08/2025
 9. [ParaSwap](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/paraswap): ~$24К, 03/2024
+10. [Croutonfi](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/croutonfi): ~$3К, 16/06/2025

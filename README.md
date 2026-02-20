@@ -14,4 +14,4 @@
 8. [Coinbase](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/coinbase), **EVM**: ~$550К, 13/08/2025
 9. [ParaSwap](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/paraswap), **EVM**: ~$24К, 03/2024
 10. [Croutonfi](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/croutonfi), **TON**: ~$3К, 16/06/2025
-11. [STORE Poison](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/TstorePoison), **EVM**: 02/2026
+11. [TSTORE Poison](https://github.com/mysteryon88/proof-of-concept-hacks/tree/main/TstorePoison), **EVM**: 02/2026
